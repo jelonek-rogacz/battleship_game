@@ -1,3 +1,0 @@
-C:/Users/beata/CLionProjects/statki/cmake-build-debug/CMakeFiles/statki.dir
-C:/Users/beata/CLionProjects/statki/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/beata/CLionProjects/statki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
